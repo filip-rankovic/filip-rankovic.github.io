@@ -20,24 +20,6 @@
                 href="https://filip-rankovic.github.io/de/posts.de/migrate-from-jekyll/"
                 />
   </url><url>
-    <loc>https://filip-rankovic.github.io/de/series/hugo-101/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://filip-rankovic.github.io/series/hugo-101/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="srb"
-                href="https://filip-rankovic.github.io/srb/series/hugo-101/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://filip-rankovic.github.io/de/series/hugo-101/"
-                />
-  </url><url>
     <loc>https://filip-rankovic.github.io/de/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -54,6 +36,24 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://filip-rankovic.github.io/de/"
+                />
+  </url><url>
+    <loc>https://filip-rankovic.github.io/de/series/hugo-101/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://filip-rankovic.github.io/series/hugo-101/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="srb"
+                href="https://filip-rankovic.github.io/srb/series/hugo-101/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://filip-rankovic.github.io/de/series/hugo-101/"
                 />
   </url><url>
     <loc>https://filip-rankovic.github.io/de/posts.de/</loc>
