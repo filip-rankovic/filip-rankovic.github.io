@@ -2,24 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://filip-rankovic.github.io/srb/categories/</loc>
+    <loc>https://filip-rankovic.github.io/srb/posts.srb/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://filip-rankovic.github.io/categories/"
+                href="https://filip-rankovic.github.io/posts/2014/03/migrate-to-hugo-from-jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://filip-rankovic.github.io/de/categories/"
+                href="https://filip-rankovic.github.io/de/posts.de/migrate-from-jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="srb"
-                href="https://filip-rankovic.github.io/srb/categories/"
+                href="https://filip-rankovic.github.io/srb/posts.srb/migrate-from-jekyll/"
+                />
+  </url><url>
+    <loc>https://filip-rankovic.github.io/srb/series/hugo-101/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://filip-rankovic.github.io/series/hugo-101/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://filip-rankovic.github.io/de/series/hugo-101/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="srb"
+                href="https://filip-rankovic.github.io/srb/series/hugo-101/"
                 />
   </url><url>
     <loc>https://filip-rankovic.github.io/srb/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,7 +56,11 @@
                 href="https://filip-rankovic.github.io/srb/"
                 />
   </url><url>
+    <loc>https://filip-rankovic.github.io/srb/posts.srb/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://filip-rankovic.github.io/srb/series/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -51,6 +75,59 @@
                 rel="alternate"
                 hreflang="srb"
                 href="https://filip-rankovic.github.io/srb/series/"
+                />
+  </url><url>
+    <loc>https://filip-rankovic.github.io/srb/about/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://filip-rankovic.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://filip-rankovic.github.io/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="srb"
+                href="https://filip-rankovic.github.io/srb/about/"
+                />
+  </url><url>
+    <loc>https://filip-rankovic.github.io/srb/projects/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://filip-rankovic.github.io/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://filip-rankovic.github.io/de/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="srb"
+                href="https://filip-rankovic.github.io/srb/projects/"
+                />
+  </url><url>
+    <loc>https://filip-rankovic.github.io/srb/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://filip-rankovic.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://filip-rankovic.github.io/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="srb"
+                href="https://filip-rankovic.github.io/srb/categories/"
                 />
   </url><url>
     <loc>https://filip-rankovic.github.io/srb/tags/</loc>

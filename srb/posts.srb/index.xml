@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My first portfolio</title>
-    <link>https://filip-rankovic.github.io/srb/</link>
-    <description>Recent content on My first portfolio</description>
+    <title>Posts.srbs on My first portfolio</title>
+    <link>https://filip-rankovic.github.io/srb/posts.srb/</link>
+    <description>Recent content in Posts.srbs on My first portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 10 Mar 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://filip-rankovic.github.io/srb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Mar 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://filip-rankovic.github.io/srb/posts.srb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migracija od Huga ka Jekyll</title>
       <link>https://filip-rankovic.github.io/srb/posts.srb/migrate-from-jekyll/</link>
@@ -17,24 +17,6 @@
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://filip-rankovic.github.io/srb/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://filip-rankovic.github.io/srb/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://filip-rankovic.github.io/srb/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://filip-rankovic.github.io/srb/projects/</guid>
-      <description>ja sam ja, jeremija.</description>
     </item>
     
   </channel>
