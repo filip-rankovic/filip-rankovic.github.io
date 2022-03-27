@@ -11,11 +11,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="srb"
-                href="https://filip-rankovic.github.io/srb/posts.srb/migrate-from-jekyll/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="https://filip-rankovic.github.io/de/posts.de/migrate-from-jekyll/"
                 />
@@ -29,11 +24,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="srb"
-                href="https://filip-rankovic.github.io/srb/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="https://filip-rankovic.github.io/de/"
                 />
@@ -44,11 +34,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://filip-rankovic.github.io/series/hugo-101/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="srb"
-                href="https://filip-rankovic.github.io/srb/series/hugo-101/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -68,11 +53,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="srb"
-                href="https://filip-rankovic.github.io/srb/series/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="https://filip-rankovic.github.io/de/series/"
                 />
@@ -83,11 +63,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://filip-rankovic.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="srb"
-                href="https://filip-rankovic.github.io/srb/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -104,11 +79,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="srb"
-                href="https://filip-rankovic.github.io/srb/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="https://filip-rankovic.github.io/de/projects/"
                 />
@@ -121,11 +91,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="srb"
-                href="https://filip-rankovic.github.io/srb/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="https://filip-rankovic.github.io/de/categories/"
                 />
@@ -135,11 +100,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://filip-rankovic.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="srb"
-                href="https://filip-rankovic.github.io/srb/tags/"
                 />
     <xhtml:link
                 rel="alternate"
